@@ -1,0 +1,78 @@
+
+.main{
+    width: 132%;
+}
+
+.navbar{
+    flex-direction: column;
+    align-items: center;
+}
+
+.seprate{
+    margin-top: 370px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 1679px;
+}
+
+.content{
+    margin-left: 0px;
+}
+
+.content1{
+    margin-top: 175px;
+    margin-left: 442px;
+    top: 0;
+    left: 0px;
+    position: relative;
+}
+.icon{
+    margin: 37px;
+}
+
+.menu{
+    margin: 22px;
+    margin-top: 63px;
+}
+
+.search{
+    margin-left: 0px;
+    margin-top: 31px;
+}
+
+footer{
+    height: 283px;
+}
+
+footer h3{
+    margin-bottom: -31px;
+    margin-left: 88px;
+}
+
+.navbar1 .icon{
+    margin-top: 65px;
+}
+
+.icons{
+    margin-left: 147px;
+}
+
+.icons ion-icon{
+    margin-top: 87px
+}
+
+.modal{
+    left: -695px;
+    top: -316px;
+    
+    height: 978px;
+}
+
+.modal-header{
+    margin-left: 104px;
+}
+
+.modal-body{
+    margin-left: 674px;
+}
